@@ -1,0 +1,19 @@
+.banner{
+    background-color: #FEEAE9;
+    
+    
+}
+
+.buy-now-btn{
+    width: 168px;
+height: 52px;
+
+
+
+background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+border-radius: 6px;
+border: none;
+}
+.dollar{
+    color: #FF136F;
+}
