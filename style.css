@@ -17,3 +17,41 @@ border: none;
 .dollar{
     color: #FF136F;
 }
+.black-btn{
+    
+width: 168px;
+height: 52px;
+
+background: #000000;
+border-radius: 6px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 10px;
+
+}
+.fa-solid {
+    margin: 10px;
+}
+footer{
+    background-color: #FFF2F1;
+}
+.footer-content{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+ .jaber{
+    margin-top: 69px;
+ }
+ .footer-btn{
+    background-color: #FF136F;
+    border:none;
+ }
+ @media screen and(max-width:1200px) {
+    
+    footer{
+        width: 100%;
+    }
+ }
+   
